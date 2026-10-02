@@ -1,0 +1,24 @@
+# EOD Report - 2026-09-29
+Generated: 2026-09-29 12:25:45 IST
+
+## Market Breadth
+- **Advancers**: 0
+- **Decliners**: 0
+- **Unchanged**: 0
+- **A/D Ratio**: inf
+- **Total Symbols Tracked**: 0
+- **Total News Items**: 0
+
+## Volume Leaders
+| Symbol | Volume (L) | vs 20D Avg |
+|--------|------------|------------|
+
+## Volatility Leaders (15m Realized Vol)
+| Symbol | Annualized Vol |
+|--------|----------------|
+
+## Signal Summary
+| Signal Type | Count |
+|-------------|-------|
+
+## Individual Summaries

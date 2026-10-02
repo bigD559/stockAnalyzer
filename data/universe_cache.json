@@ -1,0 +1,2412 @@
+{
+  "ABB": {
+    "symbol": "ABB",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ABB.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ABCAPITAL": {
+    "symbol": "ABCAPITAL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ABCAPITAL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ABFRL": {
+    "symbol": "ABFRL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ABFRL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ACC": {
+    "symbol": "ACC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ACC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ADANIENT": {
+    "symbol": "ADANIENT",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ADANIENT.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ADANIGREEN": {
+    "symbol": "ADANIGREEN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ADANIGREEN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ADANIPORTS": {
+    "symbol": "ADANIPORTS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ADANIPORTS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ADANIPOWER": {
+    "symbol": "ADANIPOWER",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ADANIPOWER.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ALKEM": {
+    "symbol": "ALKEM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ALKEM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "AMARAJABAT": {
+    "symbol": "AMARAJABAT",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "AMARAJABAT.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "AMBUJACEM": {
+    "symbol": "AMBUJACEM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "AMBUJACEM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "APOLLOHOSP": {
+    "symbol": "APOLLOHOSP",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "APOLLOHOSP.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ASIANPAINT": {
+    "symbol": "ASIANPAINT",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ASIANPAINT.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "AUBANK": {
+    "symbol": "AUBANK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "AUBANK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "AUROPHARMA": {
+    "symbol": "AUROPHARMA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "AUROPHARMA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "AXISBANK": {
+    "symbol": "AXISBANK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "AXISBANK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BAJAJ-AUTO": {
+    "symbol": "BAJAJ-AUTO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BAJAJ-AUTO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BAJAJFINSV": {
+    "symbol": "BAJAJFINSV",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BAJAJFINSV.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BAJFINANCE": {
+    "symbol": "BAJFINANCE",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BAJFINANCE.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BALKRISIND": {
+    "symbol": "BALKRISIND",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BALKRISIND.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BALRAMCHIN": {
+    "symbol": "BALRAMCHIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BALRAMCHIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BANKBARODA": {
+    "symbol": "BANKBARODA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BANKBARODA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BATAINDIA": {
+    "symbol": "BATAINDIA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BATAINDIA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BDL": {
+    "symbol": "BDL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BDL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BEL": {
+    "symbol": "BEL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BEL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BERGEPAINT": {
+    "symbol": "BERGEPAINT",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BERGEPAINT.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BHARATFORG": {
+    "symbol": "BHARATFORG",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BHARATFORG.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BHARTIARTL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BHEL": {
+    "symbol": "BHEL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BHEL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BIOCON": {
+    "symbol": "BIOCON",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BIOCON.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BLUEDART": {
+    "symbol": "BLUEDART",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BLUEDART.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BOSCHLTD": {
+    "symbol": "BOSCHLTD",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BOSCHLTD.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BPCL": {
+    "symbol": "BPCL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BPCL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BRITANNIA": {
+    "symbol": "BRITANNIA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BRITANNIA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "BSE": {
+    "symbol": "BSE",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "BSE.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "CADILAHC": {
+    "symbol": "CADILAHC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "CADILAHC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "CANBK": {
+    "symbol": "CANBK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "CANBK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "CANFINHOME": {
+    "symbol": "CANFINHOME",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "CANFINHOME.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "CENTRALBK": {
+    "symbol": "CENTRALBK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "CENTRALBK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "CHOLAFIN": {
+    "symbol": "CHOLAFIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "CHOLAFIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "CIPLA": {
+    "symbol": "CIPLA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "CIPLA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "COALINDIA": {
+    "symbol": "COALINDIA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "COALINDIA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "COLPAL": {
+    "symbol": "COLPAL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "COLPAL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "CROMPTON": {
+    "symbol": "CROMPTON",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "CROMPTON.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "CUMMINSIND": {
+    "symbol": "CUMMINSIND",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "CUMMINSIND.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "DABUR": {
+    "symbol": "DABUR",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "DABUR.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "DEEPAKNTR": {
+    "symbol": "DEEPAKNTR",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "DEEPAKNTR.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "DELTACORP": {
+    "symbol": "DELTACORP",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "DELTACORP.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "DIVISLAB": {
+    "symbol": "DIVISLAB",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "DIVISLAB.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "DIXON": {
+    "symbol": "DIXON",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "DIXON.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "DLF": {
+    "symbol": "DLF",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "DLF.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "DMART": {
+    "symbol": "DMART",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "DMART.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "DRREDDY": {
+    "symbol": "DRREDDY",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "DRREDDY.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "EDELWEISS": {
+    "symbol": "EDELWEISS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "EDELWEISS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "EICHERMOT": {
+    "symbol": "EICHERMOT",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "EICHERMOT.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "EMAMILTD": {
+    "symbol": "EMAMILTD",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "EMAMILTD.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ENDURANCE": {
+    "symbol": "ENDURANCE",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ENDURANCE.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ENGINERSIN": {
+    "symbol": "ENGINERSIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ENGINERSIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ESCORTS": {
+    "symbol": "ESCORTS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ESCORTS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "EXIDEIND": {
+    "symbol": "EXIDEIND",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "EXIDEIND.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "FEDERALBNK": {
+    "symbol": "FEDERALBNK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "FEDERALBNK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "FINCABLES": {
+    "symbol": "FINCABLES",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "FINCABLES.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "FORTIS": {
+    "symbol": "FORTIS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "FORTIS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "GAIL": {
+    "symbol": "GAIL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "GAIL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "GLENMARK": {
+    "symbol": "GLENMARK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "GLENMARK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "GMRINFRA": {
+    "symbol": "GMRINFRA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "GMRINFRA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "GODREJCP": {
+    "symbol": "GODREJCP",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "GODREJCP.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "GODREJIND": {
+    "symbol": "GODREJIND",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "GODREJIND.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "GODREJPROP": {
+    "symbol": "GODREJPROP",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "GODREJPROP.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "GRANULES": {
+    "symbol": "GRANULES",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "GRANULES.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "GRASIM": {
+    "symbol": "GRASIM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "GRASIM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "GUJGASLTD": {
+    "symbol": "GUJGASLTD",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "GUJGASLTD.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HAL": {
+    "symbol": "HAL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HAL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HAPPSTMNDS": {
+    "symbol": "HAPPSTMNDS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HAPPSTMNDS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HATSUN": {
+    "symbol": "HATSUN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HATSUN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HAVELLS": {
+    "symbol": "HAVELLS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HAVELLS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HCLTECH": {
+    "symbol": "HCLTECH",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HCLTECH.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HDFCAMC": {
+    "symbol": "HDFCAMC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HDFCAMC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HDFCBANK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HDFCLIFE": {
+    "symbol": "HDFCLIFE",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HDFCLIFE.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HEROMOTOCO": {
+    "symbol": "HEROMOTOCO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HEROMOTOCO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HINDALCO": {
+    "symbol": "HINDALCO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HINDALCO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HINDCOPPER": {
+    "symbol": "HINDCOPPER",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HINDCOPPER.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HINDPETRO": {
+    "symbol": "HINDPETRO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HINDPETRO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HINDUNILVR": {
+    "symbol": "HINDUNILVR",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HINDUNILVR.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "HONAUT": {
+    "symbol": "HONAUT",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "HONAUT.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "IBULHSGFIN": {
+    "symbol": "IBULHSGFIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "IBULHSGFIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ICICIBANK": {
+    "symbol": "ICICIBANK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ICICIBANK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ICICIGI": {
+    "symbol": "ICICIGI",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ICICIGI.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ICICIPRULI": {
+    "symbol": "ICICIPRULI",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ICICIPRULI.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "IDEA": {
+    "symbol": "IDEA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "IDEA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "IDFCFIRSTB": {
+    "symbol": "IDFCFIRSTB",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "IDFCFIRSTB.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "IEX": {
+    "symbol": "IEX",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "IEX.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "IGL": {
+    "symbol": "IGL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "IGL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "INDHOTEL": {
+    "symbol": "INDHOTEL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "INDHOTEL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "INDIAMART": {
+    "symbol": "INDIAMART",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "INDIAMART.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "INDIANB": {
+    "symbol": "INDIANB",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "INDIANB.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "INDIGO": {
+    "symbol": "INDIGO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "INDIGO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "INDUSINDBK": {
+    "symbol": "INDUSINDBK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "INDUSINDBK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "INDUSTOWER": {
+    "symbol": "INDUSTOWER",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "INDUSTOWER.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "INFY.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "INTELLECT": {
+    "symbol": "INTELLECT",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "INTELLECT.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "IPCALAB": {
+    "symbol": "IPCALAB",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "IPCALAB.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "IRCTC": {
+    "symbol": "IRCTC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "IRCTC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "IRFC": {
+    "symbol": "IRFC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "IRFC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ITC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "J&KBANK": {
+    "symbol": "J&KBANK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "J&KBANK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "JAMNAAUTO": {
+    "symbol": "JAMNAAUTO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "JAMNAAUTO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "JBCHEPHARM": {
+    "symbol": "JBCHEPHARM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "JBCHEPHARM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "JINDALSAW": {
+    "symbol": "JINDALSAW",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "JINDALSAW.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "JINDALSTEL": {
+    "symbol": "JINDALSTEL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "JINDALSTEL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "JIOFIN": {
+    "symbol": "JIOFIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "JIOFIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "JSL": {
+    "symbol": "JSL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "JSL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "JSWSTEEL": {
+    "symbol": "JSWSTEEL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "JSWSTEEL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "JUBLFOOD": {
+    "symbol": "JUBLFOOD",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "JUBLFOOD.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "JUBLINGREA": {
+    "symbol": "JUBLINGREA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "JUBLINGREA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "JUSTDIAL": {
+    "symbol": "JUSTDIAL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "JUSTDIAL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "KAJARIACER": {
+    "symbol": "KAJARIACER",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "KAJARIACER.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "KALYANKJIL": {
+    "symbol": "KALYANKJIL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "KALYANKJIL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "KEI": {
+    "symbol": "KEI",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "KEI.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "KFINTECH": {
+    "symbol": "KFINTECH",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "KFINTECH.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "KOTAKBANK": {
+    "symbol": "KOTAKBANK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "KOTAKBANK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "KPITTECH": {
+    "symbol": "KPITTECH",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "KPITTECH.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "LAURUSLABS": {
+    "symbol": "LAURUSLABS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "LAURUSLABS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "LEMONTREE": {
+    "symbol": "LEMONTREE",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "LEMONTREE.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "LICHSGFIN": {
+    "symbol": "LICHSGFIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "LICHSGFIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "LICI": {
+    "symbol": "LICI",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "LICI.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "LINDEINDIA": {
+    "symbol": "LINDEINDIA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "LINDEINDIA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "LODHA": {
+    "symbol": "LODHA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "LODHA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "LT": {
+    "symbol": "LT",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "LT.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "LTIM": {
+    "symbol": "LTIM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "LTIM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "LTTS": {
+    "symbol": "LTTS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "LTTS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "LUPIN": {
+    "symbol": "LUPIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "LUPIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "M&M": {
+    "symbol": "M&M",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "M&M.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "MANAPPURAM": {
+    "symbol": "MANAPPURAM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "MANAPPURAM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "MARICO": {
+    "symbol": "MARICO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "MARICO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "MARUTI.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "MCDOWELL-N": {
+    "symbol": "MCDOWELL-N",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "MCDOWELL-N.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "MFSL": {
+    "symbol": "MFSL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "MFSL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "MGL": {
+    "symbol": "MGL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "MGL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "MOTHERSUMI": {
+    "symbol": "MOTHERSUMI",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "MOTHERSUMI.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "MOTILALOFS": {
+    "symbol": "MOTILALOFS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "MOTILALOFS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "MPHASIS": {
+    "symbol": "MPHASIS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "MPHASIS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "MRF": {
+    "symbol": "MRF",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "MRF.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "MUTHOOTFIN": {
+    "symbol": "MUTHOOTFIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "MUTHOOTFIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "NAM-INDIA": {
+    "symbol": "NAM-INDIA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "NAM-INDIA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "NATCOPHARM": {
+    "symbol": "NATCOPHARM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "NATCOPHARM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "NAUKRI": {
+    "symbol": "NAUKRI",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "NAUKRI.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "NAVINFLUOR": {
+    "symbol": "NAVINFLUOR",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "NAVINFLUOR.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "NBCC": {
+    "symbol": "NBCC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "NBCC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "NCC": {
+    "symbol": "NCC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "NCC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "NESTLEIND": {
+    "symbol": "NESTLEIND",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "NESTLEIND.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "NHPC": {
+    "symbol": "NHPC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "NHPC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "NMDC": {
+    "symbol": "NMDC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "NMDC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "NTPC": {
+    "symbol": "NTPC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "NTPC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "OBEROIRLTY": {
+    "symbol": "OBEROIRLTY",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "OBEROIRLTY.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "OFSS": {
+    "symbol": "OFSS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "OFSS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "OIL": {
+    "symbol": "OIL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "OIL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ONGC": {
+    "symbol": "ONGC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ONGC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PAGEIND": {
+    "symbol": "PAGEIND",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PAGEIND.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PAYTM": {
+    "symbol": "PAYTM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PAYTM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PEL": {
+    "symbol": "PEL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PEL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PERSISTENT": {
+    "symbol": "PERSISTENT",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PERSISTENT.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PETRONET": {
+    "symbol": "PETRONET",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PETRONET.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PFC": {
+    "symbol": "PFC",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PFC.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PFIZER": {
+    "symbol": "PFIZER",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PFIZER.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PHOENIXLTD": {
+    "symbol": "PHOENIXLTD",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PHOENIXLTD.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PIDILITIND": {
+    "symbol": "PIDILITIND",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PIDILITIND.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PIIND": {
+    "symbol": "PIIND",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PIIND.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PIRAMAL": {
+    "symbol": "PIRAMAL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PIRAMAL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PNB": {
+    "symbol": "PNB",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PNB.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "POLICYBZR": {
+    "symbol": "POLICYBZR",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "POLICYBZR.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "POLYCAB": {
+    "symbol": "POLYCAB",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "POLYCAB.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "POONAWALLA": {
+    "symbol": "POONAWALLA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "POONAWALLA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "POWERGRID": {
+    "symbol": "POWERGRID",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "POWERGRID.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "PRESTIGE": {
+    "symbol": "PRESTIGE",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "PRESTIGE.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "RADICO": {
+    "symbol": "RADICO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "RADICO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "RAIN": {
+    "symbol": "RAIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "RAIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "RBLBANK": {
+    "symbol": "RBLBANK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "RBLBANK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "RCF": {
+    "symbol": "RCF",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "RCF.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "RECLTD": {
+    "symbol": "RECLTD",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "RECLTD.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "REDINGTON": {
+    "symbol": "REDINGTON",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "REDINGTON.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "RELAXO": {
+    "symbol": "RELAXO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "RELAXO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "RELIANCE.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "RITES": {
+    "symbol": "RITES",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "RITES.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "RVNL": {
+    "symbol": "RVNL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "RVNL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SAIL": {
+    "symbol": "SAIL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SAIL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SANOFI": {
+    "symbol": "SANOFI",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SANOFI.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SBILIFE": {
+    "symbol": "SBILIFE",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SBILIFE.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SBIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SCHAEFFLER": {
+    "symbol": "SCHAEFFLER",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SCHAEFFLER.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SHREECEM": {
+    "symbol": "SHREECEM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SHREECEM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SHRIRAMFIN": {
+    "symbol": "SHRIRAMFIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SHRIRAMFIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SIEMENS": {
+    "symbol": "SIEMENS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SIEMENS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SONATSOFTW": {
+    "symbol": "SONATSOFTW",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SONATSOFTW.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SRF": {
+    "symbol": "SRF",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SRF.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "STARHEALTH": {
+    "symbol": "STARHEALTH",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "STARHEALTH.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SUNDARMFIN": {
+    "symbol": "SUNDARMFIN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SUNDARMFIN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SUNDRMFAST": {
+    "symbol": "SUNDRMFAST",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SUNDRMFAST.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SUNPHARMA": {
+    "symbol": "SUNPHARMA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SUNPHARMA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SUPREMEIND": {
+    "symbol": "SUPREMEIND",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SUPREMEIND.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SUZLON": {
+    "symbol": "SUZLON",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SUZLON.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "SYNGENE": {
+    "symbol": "SYNGENE",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "SYNGENE.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TATACHEM": {
+    "symbol": "TATACHEM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TATACHEM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TATACONSUM": {
+    "symbol": "TATACONSUM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TATACONSUM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TATAELXSI": {
+    "symbol": "TATAELXSI",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TATAELXSI.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TATAINVEST": {
+    "symbol": "TATAINVEST",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TATAINVEST.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TATAMOTORS": {
+    "symbol": "TATAMOTORS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TATAMOTORS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TATAPOWER": {
+    "symbol": "TATAPOWER",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TATAPOWER.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TATASTEEL": {
+    "symbol": "TATASTEEL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TATASTEEL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TCS": {
+    "symbol": "TCS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TCS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TECHM": {
+    "symbol": "TECHM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TECHM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TEJASNET": {
+    "symbol": "TEJASNET",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TEJASNET.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "THERMAX": {
+    "symbol": "THERMAX",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "THERMAX.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TIINDIA": {
+    "symbol": "TIINDIA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TIINDIA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TITAN": {
+    "symbol": "TITAN",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TITAN.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TMB": {
+    "symbol": "TMB",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TMB.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TORNTPHARM": {
+    "symbol": "TORNTPHARM",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TORNTPHARM.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TORNTPOWER": {
+    "symbol": "TORNTPOWER",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TORNTPOWER.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TRENT": {
+    "symbol": "TRENT",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TRENT.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TTKPRESTIG": {
+    "symbol": "TTKPRESTIG",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TTKPRESTIG.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TUBEINVEST": {
+    "symbol": "TUBEINVEST",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TUBEINVEST.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TV18BRDCST": {
+    "symbol": "TV18BRDCST",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TV18BRDCST.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "TVSMOTOR": {
+    "symbol": "TVSMOTOR",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "TVSMOTOR.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "UBL": {
+    "symbol": "UBL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "UBL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ULTRACEMCO": {
+    "symbol": "ULTRACEMCO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ULTRACEMCO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "UNIONBANK": {
+    "symbol": "UNIONBANK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "UNIONBANK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "UNOMINDA": {
+    "symbol": "UNOMINDA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "UNOMINDA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "UPL": {
+    "symbol": "UPL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "UPL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "VAIBHAVGBL": {
+    "symbol": "VAIBHAVGBL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "VAIBHAVGBL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "VBL": {
+    "symbol": "VBL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "VBL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "VEDL": {
+    "symbol": "VEDL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "VEDL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "VOLTAS": {
+    "symbol": "VOLTAS",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "VOLTAS.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "WELCORP": {
+    "symbol": "WELCORP",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "WELCORP.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "WELSPUNIND": {
+    "symbol": "WELSPUNIND",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "WELSPUNIND.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "WHIRLPOOL": {
+    "symbol": "WHIRLPOOL",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "WHIRLPOOL.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "WIPRO": {
+    "symbol": "WIPRO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "WIPRO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "YESBANK": {
+    "symbol": "YESBANK",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "YESBANK.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ZFCVINDIA": {
+    "symbol": "ZFCVINDIA",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ZFCVINDIA.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ZOMATO": {
+    "symbol": "ZOMATO",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ZOMATO.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  },
+  "ZYDUSLIFE": {
+    "symbol": "ZYDUSLIFE",
+    "token": 0,
+    "exchange": "NSE",
+    "instrument_type": "EQ",
+    "yfinance_ticker": "ZYDUSLIFE.NS",
+    "lot_size": 1,
+    "tick_size": 0.05,
+    "is_fno": false
+  }
+}

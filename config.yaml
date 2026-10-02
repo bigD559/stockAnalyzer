@@ -1,0 +1,54 @@
+smartapi:
+  api_key: "IXf26MyZ"
+  client_id: "AACM380859"
+  password: "7295"
+  totp_secret: "EQN7ANRTQNZDQX55QUHANDBC6Y"
+  sandbox: true
+
+universe:
+  indices: ["NIFTY50", "NIFTY100", "NIFTY200"]
+  min_liquidity_lakh: 500
+
+volatility:
+  windows:
+    "1m": [30, 60]
+    "5m": [30, 60]
+    "15m": [16, 32]
+  annualization_factor: 945000  # 252 * 375
+
+patterns:
+  zscore_window: 20
+  bb_window: 20
+  bb_std: 2.0
+  rsi_window: 14
+  macd_fast: 12
+  macd_slow: 26
+  macd_signal: 9
+  signal_threshold: 0.6
+
+news:
+  poll_interval_sec: 300
+  sources: ["nse", "moneycontrol", "economictimes", "businessstandard"]
+  sentiment_enabled: true
+
+alerts:
+  desktop: true
+  telegram_bot_token: "8620197039:AAHy0ApFhtiX9WxjM7p6EiUHG8eMFgpef2g"
+  telegram_chat_id: "8054885925"
+  throttle_sec: 60
+
+storage:
+  db_path: "data/market.duckdb"
+  retention_days: 90
+
+market_hours:
+  open: "09:15"
+  close: "15:30"
+  timezone: "Asia/Kolkata"
+  pre_market_start: "09:00"
+  post_market_end: "16:00"
+
+logging:
+  level: "INFO"
+  file: "logs/app.log"
+  json: true

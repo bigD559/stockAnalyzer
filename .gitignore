@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# Data files
+data/*.duckdb
+data/*.db
+*.parquet
+
+# Logs
+logs/
+*.log
+
+# Reports
+reports/*.json
+reports/*.md
+reports/*.parquet
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+config.local.yaml
+.env.local
+
+# Temporary
+*.tmp
+*.temp
